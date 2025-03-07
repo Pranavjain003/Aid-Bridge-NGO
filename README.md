@@ -61,13 +61,3 @@ The project follows **IEEE Software Requirements Specification (SRS)** standards
 - **Software Requirement Specification (SRS)**: Covers functional and non-functional requirements.
 - **Testing Reports**: Includes test cases and expected outcomes.
 
----
-
-## 🚀 Getting Started
-
-### **📥 Installation**
-To set up **AidBridge** locally, follow these steps:
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/Pranavjain003/Aid-Bridge-NGO
